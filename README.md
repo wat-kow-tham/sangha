@@ -1,7 +1,7 @@
 CyberSpace Presence and Contacts
 
 ### GitHub Maintainers
-* Anatoli Babenia (@abitrolly)
+* Anatoli Babenia (anatoli@rainforce.org)
 
 ### YouTube Uploaders
-* Anatoli Babenia (@abitrolly)
+* Anatoli Babenia (anatoli@rainforce.org)
